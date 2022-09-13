@@ -1,0 +1,26 @@
+button{
+    width: 180px;
+    height: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    border-radius: 15px;
+    margin: 5px;
+    cursor:  pointer;
+
+}
+
+.boton-clic{
+    background-color: white;
+        color: #191919;
+    font-size: 17px;
+    border:solid red 3px;
+
+}
+.boton-reiniciar{
+    background-color: white;
+    color: #191919;
+    font-size: 17px;
+    border:solid red 3px;
+}
+

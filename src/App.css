@@ -1,0 +1,40 @@
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                font-family: sans-serif;
+            }
+
+            body {
+                background-color: #191919;
+            }
+
+            .ContenedorApp {
+                min-height: 100vh;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+
+            }
+
+            .contenedor-head {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 1rem;
+            }
+
+            .contenedor-head h1 {
+                color: white;
+            }
+
+            .contenedorboton1 {
+                margin-top: 20px;
+                margin-bottom: 20px;
+                text-align: center;
+            }
+
+            .contenedorboton2 {
+                text-align: center;
+            }
